@@ -8,7 +8,7 @@ tags: vegan, dessert
 ingredients:
 - 1 cup Italian dressing
 - 1/4 cup soy sauce
-- ---
+
 - 1/4 cup chili paste (like [sambal oelek](https://amzn.to/2NuqquF))
 - 1/4 sugar
 - dash hot sauce (like Texas Champagne or Yellowbird)
