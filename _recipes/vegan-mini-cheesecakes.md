@@ -11,7 +11,7 @@ ingredients:
 - ---
 - 1/4 cup chili paste (like [sambal oelek](https://amzn.to/2NuqquF))
 - 1/4 sugar
-- dash hot sauce (like Texas Champagne or Yellowbird)
+- dash hot sauce (like Texas Champagne or Yellowbird)and this is a really long ingredient
 
 directions:
 - Mix everythiing in a large zip bag (or bowl)
