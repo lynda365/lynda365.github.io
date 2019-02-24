@@ -634,7 +634,6 @@ h6, .h6 { font-size: .75rem }
   .sm-col {
     float: left;
     box-sizing: border-box;
-    padding-right: 5%;
   }
 
   .sm-col-right {
