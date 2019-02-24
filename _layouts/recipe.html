@@ -134,7 +134,7 @@ layout: default
   return this.on("click", cb);
   };
 
-  //$("ul li").append('<input type="checkbox">');
+  $("ul li").append('<input type="checkbox">');
   $("ul li").clickToggle(function(){
     $(this).children("input").prop('checked', true);
     var height = $(this).height();
