@@ -18,6 +18,12 @@ and open the template in the editor.
     
     body
     {
-    line-height: 1;
+    line-height: 1.2;
     }
+    
+    p, dl, ol, ul {
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 }
