@@ -71,9 +71,9 @@ layout: default
 <!-- check if it's a component-based recipe, render it -->
   {% if page.components %}
   
-  <div class="components bg-darken-2 p2 mt3 mb3 center">
+<!--  <div class="components bg-darken-2 p2 mt3 mb3 center">
     &darr; This is a <strong class="blue">component-based recipe</strong> (fancy talk for making the dish in pieces, then assembling). &darr;
-  </div>
+  </div>-->
   
   <div class="clearfix mxn2">
   {% for component in page.components %}
@@ -118,7 +118,7 @@ layout: default
   {% endif %}
 <!-- end components -->
 
-<!--just buggering around-->
+<!--add comments section-->
 <div  class="mt3 clearfix">
     {% if page.comments %}
       <h4 class="blue mt0 mb2 xs-center">Comments</h4>
@@ -130,7 +130,7 @@ layout: default
       </ul>
       {% endif %}
 </div>
-<!--End just buggering around-->  
+<!--End add comments section--> 
 
   {% for category in page.categories %}
     <p class="clearfix">Category: <span itemprop="recipeCategory">{{ category }}</span></p>
