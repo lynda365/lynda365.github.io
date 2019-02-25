@@ -9,9 +9,15 @@ and open the template in the editor.
 */
 
 @media print
+
 {    
     .no-print, .no-print *
     {
         display: none !important;
+    }
+    
+    body
+    {
+    line-height: 1;
     }
 }
