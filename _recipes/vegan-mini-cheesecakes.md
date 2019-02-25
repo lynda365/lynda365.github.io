@@ -14,7 +14,7 @@ ingredients:
 - dash hot sauce (like Texas Champagne or Yellowbird)and this is a really long ingredient
 
 directions:
-- Mix everythiing in a large zip bag (or bowl)
+- Mix everything in a large zip bag (or bowl)This is my go-to marinade for everything from steaks to shrimp to fajitas to pork.
 - Toss meat and let sit (from 1-36hr)
 
 ---
