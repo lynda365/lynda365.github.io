@@ -118,8 +118,20 @@ layout: default
   {% endif %}
 <!-- end components -->
 
-<div>testing for footnotes</div>
-  
+<!--just buggering around-->
+<div  class="px2 mt3 clearfix">
+    {% if page.comment %}
+      <h4 class="blue mt0 mb2 xs-center">Ingredients</h4>
+      <ul itemprop="comment">
+        <!-- list ingredients that make up recipe -->
+        {% for comment in page.comment %}
+        <li itemprop="recipeComment">{{ comment | markdownify }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+</div>
+<!--End just buggering around-->  
+
   {% for category in page.categories %}
     <p class="clearfix">Category: <span itemprop="recipeCategory">{{ category }}</span></p>
   {% endfor %}

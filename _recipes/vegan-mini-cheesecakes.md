@@ -17,8 +17,12 @@ directions:
 - Mix everything in a large zip bag (or bowl)This is my go-to marinade for everything from steaks to shrimp to fajitas to pork.
 - Toss meat and let sit (from 1-36hr)
 
+comment: 
+- And I'll tell you another thing
 ---
 
 This is my go-to marinade for everything from steaks to shrimp to fajitas to pork. Seriously, if I'm cooking or grilling meat, there's a good chance this is what it's soaking in. It's perfect for "street meat" aka cart or truck, like tacos and wraps and kebabs and skewers and everything in between. Start with this base, add spice or herb as desired.
 
 And this is another line
+
+comment: And I'll tell you another thing
