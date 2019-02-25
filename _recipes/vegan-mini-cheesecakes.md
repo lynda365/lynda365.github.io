@@ -17,7 +17,7 @@ directions:
 - Mix everything in a large zip bag (or bowl)This is my go-to marinade for everything from steaks to shrimp to fajitas to pork.
 - Toss meat and let sit (from 1-36hr)
 
-comment: 
+comments: 
 - And I'll tell you another thing
 - And I have something else to say
 

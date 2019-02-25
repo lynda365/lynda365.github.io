@@ -120,12 +120,12 @@ layout: default
 
 <!--just buggering around-->
 <div  class="mt3 clearfix">
-    {% if page.comment %}
+    {% if page.comments %}
       <h4 class="blue mt0 mb2 xs-center">Comments</h4>
-      <ul itemprop="comment">
+      <ul itemprop="comments">
         <!-- list ingredients that make up recipe -->
         {% for comment in page.comment %}
-        <li itemprop="recipeComment">{{ comment | markdownify }}</li>
+        <li itemprop="recipeComments">{{ comment | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
