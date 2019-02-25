@@ -630,11 +630,14 @@ h6, .h6 { font-size: .75rem }
   width: 100%;
 }
 @media (min-width: 40em) {
+    
+    .my-spacer{
+     padding-right: 5%;   
+    } 
 
   .sm-col {
     float: left;
     box-sizing: border-box;
-    padding-right: 5%;
   }
 
   .sm-col-right {
