@@ -13,7 +13,7 @@ and open the template in the editor.
 {    
     .no-print, .no-print *
     {
-        display: none !important;
+    display: none !important;
     }
     
     body
@@ -24,7 +24,7 @@ and open the template in the editor.
     p, dl, ol, ul {
     font-size: 12px;
     margin-top: 0;
-    margin-bottom: 2px;
+    margin-bottom: 0.5rem;
     }
     
     h1
