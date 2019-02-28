@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Vegan-Mini-Cheesecakes"
+title:  "Vegan Mini Cheesecakes"
 image: vegan-mini-cheesecakes.jpg
 tags: vegan, dessert
 
