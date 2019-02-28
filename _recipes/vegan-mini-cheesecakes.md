@@ -18,7 +18,7 @@ ingredients:
 - blueberries or raspberries, fresh or frozen
 
 directions:
-- Crush or process biscuits to very fine crumbs. Melt margarine and mic together in a bowl.
+- Crush or process biscuits to very fine crumbs. Melt margarine and mix together in a bowl.
 - Grease and flour 2 x 12 cupcake trays. To make removing the cheesecakes easier, cut strips of parchment paper and lay them in the slots. This creates little tabs that makes removing them easier to pop out once frozen.
 - Next scoop in heaped tablespoons of crust and press with fingers. To pack it down, use a small glass or the back of a spoon to compact it and really press it down. Set in freezer to firm up.
 - Add all filling ingredients to a blender and mix until very smooth. Add some more lemon juice or coconut liquid if required. Taste and adjust seasonings as needed.
