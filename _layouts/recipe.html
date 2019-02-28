@@ -119,9 +119,10 @@ layout: default
 <!-- end components -->
 
 <!--add comments section-->
+<!--"comments" is used as it exists in schema.org, but I've actually labelled it "Notes"-->
 <div  class="mt3 clearfix">
     {% if page.comments %}
-      <h4 class="blue mt0 mb2 xs-center">Comments</h4>
+      <h4 class="blue mt0 mb2 xs-center">Notes</h4>
       <ul itemprop="comments">
         <!-- list ingredients that make up recipe -->
         {% for comments in page.comments %}
