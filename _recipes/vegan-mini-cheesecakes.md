@@ -30,7 +30,6 @@ directions:
 
 comments: 
 - To quick-soak cashews, pour boiling hot water over the cashews, soak for 1 hour uncovered, then drain and use as instructed.
-- Put tin of coconut in fridge, then just use the thick part.
 - Makes 24 in shallow cupcake trays, or 12 in muffin tray.
 - Bases can also be made from 200g pitted dates and 120g walnuts, chopped.
 
