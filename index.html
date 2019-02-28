@@ -4,15 +4,14 @@ layout: default
 
 <div class="home"> 
 
-  <div>
+  <div  class="container mt4 mb4">
     <div class="clearfix">
     {% assign sorted = site.recipes | sort:"date" %}
     {% for post in sorted %}
 
-      <div">
+      <div>
           <a href="{{ post.url | prepend: site.baseurl }}">
-<!--            <div class="image ratio bg-cover"{% for image in post.image %} {% endfor %}></div>-->
-<!--            <div class="image ratio bg-cover"{% for image in post.image %} style="background-image:url({{site.baseurl}}/images/{{ image }});"{% endfor %}></div>-->
+
             <h1 >{{ post.title }}</h1>
           </a>
       </div>
