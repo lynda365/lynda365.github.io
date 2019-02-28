@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title:  "Mini-Cheesecakes"
-image: downtown-marinade.jpg
+title:  "Vegan-Mini-Cheesecakes"
+image: vegan-mini-cheesecakes.jpg
 tags: vegan, dessert
 
 ingredients:
