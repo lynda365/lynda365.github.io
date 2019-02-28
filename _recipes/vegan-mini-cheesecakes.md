@@ -12,7 +12,7 @@ ingredients:
 - 180g raw cashews (quick-soaked)
 - 50ml lemon juice
 - 80g coconut oil, melted
-- 150ml full-fat coconut milk (see note)
+- 150ml full-fat coconut milk (thick part after tin has been chilled)
 - 120ml agave nectar or maple syrup (or honey if not vegan)
 - ---
 - blueberries or raspberries, fresh or frozen
