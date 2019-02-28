@@ -7,6 +7,9 @@ layout: default
   <div  class="container mt4 mb4">
     <div class="mx-auto px3 sm-px4">
         <h2>{{ site.title }}</h2>
+        
+        <p class="left-align mb2"><a href="{{ "/search" | prepend: site.baseurl}}">Click here to search</a></p>
+        
     {% assign sorted = site.recipes | sort:"date" %}
     {% for post in sorted %}
 
