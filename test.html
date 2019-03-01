@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="home"> 
+
+  <div  class="container mt4 mb4">
+    <div class="mx-auto px3 sm-px4">
+        <h2>{{ site.title }}</h2>
+        
+        <p><a href="{{ "/search" | prepend: site.baseurl}}">Click here to search titles or ingredients</a></p>
+        
+    {% assign sorted = site.tags | sort:"date" %}
+    {% for post in sorted %}
+
+      <div>
+          <a href="{{ post.url | prepend: site.baseurl }}">
+
+            <h3>{{ post.title }}</h3>
+          </a>
+      </div>
+    {% endfor %}
+  </div>
+  </div>
+  
+  
+  
+  <div class="container mt4 mb4">
+    <div class="mx-auto px3 sm-px4">
+  <p>References</p>
+  
+  <p><a href="http://schema.org/Recipe" target="_blank">schema.org</a></p>
+  
+
+  </div>
+  </div>
+
+</div>
