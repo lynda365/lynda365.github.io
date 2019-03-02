@@ -2,6 +2,7 @@
 layout: post
 title:  "HTTPS, Live Search, and a new blog"
 author: clarklab
+tags: testing, lynda
 ---
 
 After a few years on the backburner, we're finally moving Chowdown up to a low simmer. We're back with a slew of updates like HTTPS, live search, our first pull request, and this blog!
