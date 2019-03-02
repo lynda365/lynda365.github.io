@@ -11,7 +11,7 @@ layout: default
         <p><a href="{{ "/search" | prepend: site.baseurl}}">Click here to search titles or ingredients</a></p>
         <p><a href="{{ "/tags" | prepend: site.baseurl}}">Click here for tags</a></p>
         
-    {% assign sorted = site.posts | sort:"name" %}
+    {% assign sorted = site.posts | sort:"title" %}
     {% for post in sorted %}
 
       <div>
