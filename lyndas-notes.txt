@@ -1,3 +1,24 @@
+
+The only way to use TAGS is to create the recipes as posts.
+This means putting them in _posts directory and adding a date at the front in set format 2019-01-01-title.md
+Can be any old date as it doesn't need to be shown
+A tweak to search.json to make it look at posts instead of recipes
+Mostly everything else is the same
+Can use the recipe template in _layouts as before
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lots of css edits including
  
 bass.css
 

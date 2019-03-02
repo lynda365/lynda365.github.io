@@ -10,7 +10,7 @@ layout: default
         
         <p><a href="{{ "/search" | prepend: site.baseurl}}">Click here to search titles or ingredients</a></p>
         
-    {% assign sorted = site.recipes | sort:"date" %}
+    {% assign sorted = site.posts | sort:"date" %}
     {% for post in sorted %}
 
       <div>
