@@ -9,8 +9,9 @@ layout: default
         <h2>{{ site.title }}</h2>
         
         <p><a href="{{ "/search" | prepend: site.baseurl}}">Click here to search titles or ingredients</a></p>
+        <p><a href="{{ "/tags" | prepend: site.baseurl}}">Click here for tags</a></p>
         
-    {% assign sorted = site.posts | sort:"date" %}
+    {% assign sorted = site.posts | sort:"name" %}
     {% for post in sorted %}
 
       <div>
