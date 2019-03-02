@@ -5,7 +5,7 @@ Can be any old date as it doesn't need to be shown
 A tweak to search.json to make it look at posts instead of recipes
 Mostly everything else is the same
 Can use the recipe template in _layouts as before
-
+Edit in index.html to show posts instead of recipes
 
 
 
