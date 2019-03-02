@@ -2,6 +2,7 @@
 layout: post
 title:  "Hot stuff! New /beta now cookin..."
 author: clarklab
+tags: testing
 ---
 
 Just a quick note to say I've started work on the overhaul of the front-end templates. You can follow along at [https://chowdown.io/beta](https://chowdown.io/beta). Some highlights:

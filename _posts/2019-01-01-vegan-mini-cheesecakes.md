@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Vegan Mini Cheesecakes"
 image: vegan-mini-cheesecakes.jpg
-tags: vegan, dessert
+tags: vegan dessert
 
 ingredients:
 - 240g digestive biscuits (check for vegan)
