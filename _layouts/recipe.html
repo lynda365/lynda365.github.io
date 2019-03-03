@@ -27,19 +27,19 @@ layout: default
   <div class="mt3 clearfix">
 <!--    <div class="sm-col-8 center mx-auto" itemprop="description">{{page.content}}</div>-->
 <div class="center mx-auto" itemprop="description">{{page.content}}</div>
+<div class="center mx-auto" itemprop="description">
+    
+
+</div>
   </div>
 
 <!--add tags-->
 <div  class="mt3 clearfix">
     {% if page.tags %}
-    <span class="blue mt0 mb2 xs-center">Tags&nbsp;</span>
-      <span itemprop="tags">
-        <!-- list ingredients that make up recipe -->
+    <span class="blue">Tags&nbsp;</span>
         {% for tags in page.tags %}
-        <span itemprop="recipeTags">{{ tags | markdownify }}&nbsp;</span>
-        {% endfor %}
-      </span>
-      {% endif %}
+        {{ tags | markdownify }}&nbsp;</span>        {% endfor %}
+      </span>      {% endif %}
 </div>
 <!--End add tags--> 
   
