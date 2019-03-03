@@ -31,11 +31,11 @@ layout: default
 <div class="center mx-auto" itemprop="tags">
 <!--    Add tags-->
     {% if page.tags %}
-    <span class="blue">Tags&nbsp;</span>
+    <p> <span class="blue">Tags&nbsp;</span>
         {% for tags in page.tags %}
         {{tags}}       
         {% endfor %}
-           {% endif %}
+        {% endif %}</p>
 </div>
 
   </div>
