@@ -27,21 +27,19 @@ layout: default
   <div class="mt3 clearfix">
 <!--    <div class="sm-col-8 center mx-auto" itemprop="description">{{page.content}}</div>-->
 <div class="center mx-auto" itemprop="description">{{page.content}}</div>
+
 <div class="center mx-auto" itemprop="description">
-    
-
-</div>
-  </div>
-
-<!--add tags-->
-<div  class="mt3 clearfix">
+<!--    Add tags-->
     {% if page.tags %}
     <span class="blue">Tags&nbsp;</span>
         {% for tags in page.tags %}
         {{tags}}       {% endfor %}
            {% endif %}
 </div>
-<!--End add tags--> 
+
+  </div>
+
+
   
 <!-- call up recipe and directions -->
   <div class="clearfix mt3">
