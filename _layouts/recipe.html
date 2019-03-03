@@ -28,6 +28,20 @@ layout: default
 <!--    <div class="sm-col-8 center mx-auto" itemprop="description">{{page.content}}</div>-->
 <div class="center mx-auto" itemprop="description">{{page.content}}</div>
   </div>
+
+<!--add tags-->
+<div  class="mt3 clearfix">
+    {% if page.tags %}
+      <h4 class="blue mt0 mb2 xs-center">Notes</h4>
+      <ul itemprop="tags">
+        <!-- list ingredients that make up recipe -->
+        {% for tags in page.tags %}
+        <li itemprop="recipeTags">{{ tags | markdownify }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+</div>
+<!--End add tags--> 
   
 <!-- call up recipe and directions -->
   <div class="clearfix mt3">
