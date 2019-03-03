@@ -28,12 +28,13 @@ layout: default
 <!--    <div class="sm-col-8 center mx-auto" itemprop="description">{{page.content}}</div>-->
 <div class="center mx-auto" itemprop="description">{{page.content}}</div>
 
-<div class="center mx-auto" itemprop="description">
+<div class="center mx-auto" itemprop="tags">
 <!--    Add tags-->
     {% if page.tags %}
     <span class="blue">Tags&nbsp;</span>
         {% for tags in page.tags %}
-        {{tags}}       {% endfor %}
+        {{tags}}       
+        {% endfor %}
            {% endif %}
 </div>
 
