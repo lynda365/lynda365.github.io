@@ -32,13 +32,13 @@ layout: default
 <!--add tags-->
 <div  class="mt3 clearfix">
     {% if page.tags %}
-      <h4 class="blue mt0 mb2 xs-center">Notes</h4>
-      <ul itemprop="tags">
+    <span class="blue mt0 mb2 xs-center">Tags&nbsp;</span>
+      <span itemprop="tags">
         <!-- list ingredients that make up recipe -->
         {% for tags in page.tags %}
-        <li itemprop="recipeTags">{{ tags | markdownify }}</li>
+        <span itemprop="recipeTags">{{ tags | markdownify }}&nbsp;</span>
         {% endfor %}
-      </ul>
+      </span>
       {% endif %}
 </div>
 <!--End add tags--> 
