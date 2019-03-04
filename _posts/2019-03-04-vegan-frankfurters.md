@@ -10,6 +10,7 @@ ingredients:
 - 150g onion, chopped
 - 4 cloves garlic, chopped
 - 4 tbsp soy sauce
+- water to make 100ml
 - 5 tbsp vegetable oil
 - 50g sesame seeds, ground
 - 2 tbsp smoked paprika
