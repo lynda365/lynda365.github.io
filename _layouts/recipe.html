@@ -139,7 +139,7 @@ layout: default
       <ul itemprop="notes">
         <!-- list ingredients that make up recipe -->
         {% for notes in page.notes %}
-        <li itemprop="recipeComments">{{ notes | markdownify }}</li>
+        <li itemprop="recipeNotes">{{ notes | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
