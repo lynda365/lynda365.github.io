@@ -13,7 +13,7 @@ ingredients:
 - 50ml lemon juice
 - 80g coconut oil, melted
 - 150ml full-fat coconut milk (thick part after tin has been chilled)
-- 120ml agave nectar or maple syrup (or honey if not vegan)
+- 120ml agave nectar or maple syrup or golden syrup (or honey if not vegan)
 - ---
 - blueberries or raspberries, fresh or frozen
 
@@ -25,7 +25,7 @@ directions:
 - Divide filling evenly among the muffin tins. Tap a few times to release any air bubbles, 
 - If adding fruit, swirl on top.
 - Cover with plastic wrap and freeze until hard - about 4-6 hours.
-- Once set, remove by tugging on the tabs or loosening them with a butter knife. Keep in the freezer for up to 1-2 weeks.
+- To serve, briefly stand tray in shallow hot water in the sink. To remove, tug on the tabs or loosen with a butter knife. Keep in the freezer for up to 1-2 weeks.
 - You can set them out for 10 minutes before serving to soften, but I liked them frozen as well.
 
 comments: 
