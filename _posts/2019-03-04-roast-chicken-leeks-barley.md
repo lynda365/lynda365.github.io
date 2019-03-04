@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Roast chicken with leeks and barley"
+title:  "Roast Chicken with Leeks and Barley"
 image: chicken-leeks-barley.jpg
 tags: chicken main
 

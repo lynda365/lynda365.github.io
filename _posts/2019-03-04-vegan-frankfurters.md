@@ -27,8 +27,9 @@ ingredients:
 - 225g vital wheat gluten
 
 directions:
-- Crumble tofu into bowl of blender.
+- Place chopped onions and garlic in bowl of blender
 - In a liquid measuring cup, measure the soy sauce and add water to make 100ml. Add to blender and blend.
+- Crumble the tofu into the blender and blend until smooth.
 - Gradually add all other ingredients except cornflour and gluten, blending as you go. Pour into a large mixing bowl.
 - Add vital wheat gluten and cornflour to the mixture and stir to combine. Knead gently - the mixture will be soft but you'll see strands of gluten forming.
 - Divide the dough into equal pieces of 75g. Roll each into a rough hot dog shape (doesn't have to be perfect). Wrap each dog in clingfilm and twist the ends shut.
