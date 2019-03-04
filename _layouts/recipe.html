@@ -131,20 +131,20 @@ layout: default
   {% endif %}
 <!-- end components -->
 
-<!--add notes section-->
-<!--"notes" is used as it exists in schema.org, but I've actually labelled it "Notes"-->
+<!--add comments section-->
+<!--"comments" is used as it exists in schema.org, but I've actually labelled it "Notes"-->
 <div  class="mt3 clearfix">
-    {% if page.notes %}
+    {% if page.comments %}
       <h4 class="blue mt0 mb2 xs-center">Notes</h4>
-      <ul itemprop="notes">
+      <ul itemprop="comments">
         <!-- list ingredients that make up recipe -->
-        {% for notes in page.notes %}
-        <li itemprop="recipeNotes">{{ notes | markdownify }}</li>
+        {% for comments in page.comments %}
+        <li itemprop="recipeComments">{{ comments | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
 </div>
-<!--End add notes section--> 
+<!--End add comments section--> 
 
   {% for category in page.categories %}
     <p class="clearfix">Category: <span itemprop="recipeCategory">{{ category }}</span></p>

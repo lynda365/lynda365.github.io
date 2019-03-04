@@ -28,7 +28,7 @@ directions:
 - Once set, remove by tugging on the tabs or loosening them with a butter knife. Keep in the freezer for up to 1-2 weeks.
 - You can set them out for 10 minutes before serving to soften, but I liked them frozen as well.
 
-notes: 
+comments: 
 - To quick-soak cashews, pour boiling hot water over the cashews, soak for 1 hour uncovered, then drain and use as instructed.
 - Makes 24 in shallow cupcake trays, or 12 in muffin tray.
 - Bases can also be made from 200g pitted dates and 120g walnuts, chopped.
