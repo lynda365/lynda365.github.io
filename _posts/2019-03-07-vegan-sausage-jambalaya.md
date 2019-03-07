@@ -31,7 +31,7 @@ ingredients:
 - 300g brown basmati rice, cooked
 
 directions:
-- soak the ancho chillis, remove the seeds and chop coarsely.
+- Soak the ancho chillis, remove the seeds and chop coarsely.
 - In a large pan, heat the oil, briefly sizzle the garlic, ginger and chilli, then add the onion and celery and cook for a few mins, stirring. Add the peppers and cook for 5-10 mins until slightly softened.
 - Add the tomatoes, pineapple, sausages, ancho chillies, cajun spice, oregano, sugar and vinegar. Simmer for 10-15 mins.
 - Add the kidney beans, cook until warmed through.
