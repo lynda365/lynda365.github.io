@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Vegan Sausage Jambalaya"
-
+image: vegan-sausage-jambalaya.jpg
 tags: vegan main
 
 ingredients:
