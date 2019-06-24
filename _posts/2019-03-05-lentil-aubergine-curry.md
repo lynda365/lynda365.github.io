@@ -29,6 +29,8 @@ ingredients:
 - ---
 - 2 aubergines, cut into cubes
 - 1/2 cauliflower, cut into small florets
+- 300g mushrooms
+- 400ml tin coconut milk
 - ---
 - 2 mild green chillies, sliced
 - 1 tsp dried methi leaves
@@ -40,7 +42,7 @@ directions:
 - Add lentils, stir to coat with oil.
 - Add spice mixture, stir to mix thoroughly.
 - Add tomatoes, passata and stock. Bring to the boil, then cover and simmer 25 mins.
-- Add aubergines and cauliflower (other vegetables can be substituted if desired). Simmer for 20 mins or until everything is tender.
+- Add aubergines, cauliflower, mushrooms and coconut milk (other vegetables can be substituted if desired). Simmer for 20 mins or until everything is tender.
 
 comments: 
 - Serves approx 6.
