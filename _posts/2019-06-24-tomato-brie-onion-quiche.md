@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Tomato, brie and onion quiche"
+title:  "Tomato, Brie and Onion Quiche"
 image: tomato-brie-onion-quiche.jpg
 tags: veggie
 
