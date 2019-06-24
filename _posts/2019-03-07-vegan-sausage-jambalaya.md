@@ -22,7 +22,7 @@ ingredients:
 - 2 tsp cajun spice
 - 1 tsp dried oregano
 - 2 tbsp brown sugar
-- 1/2 tsp salt
+- 1 tsp salt
 - 4 tbsp white wine vinegar
 - ---
 - 6 vegan frankfurters, sliced
