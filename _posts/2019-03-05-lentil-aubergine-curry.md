@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Lentil and Aubergine Curry"
-image: lentil-aubergine-curry.jpg
+image: lentil-aubergine-curry2.jpg
 tags: vegan main
 
 ingredients:
