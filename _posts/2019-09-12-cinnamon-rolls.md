@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Cinnamon Rolls"
 image: cinnamon-rolls.jpg
-tags: vegan
+tags: vegan cake
 
 ingredients:
 - 50g vegan butter
