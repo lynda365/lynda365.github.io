@@ -30,7 +30,7 @@ directions:
 - Starting at one end, tightly roll up the dough and situate seam side down. Then with a serrated knife or a string of floss, cut the dough into 1.5 - 2 inch sections and position in a well-buttered 8x8 inch square or comparable sized round pan. 
 - Brush with vegan butter (melted) and cover with plastic wrap. Rise again in a warm place until the size you want. Preheat oven to 175 C.
 - Once the oven is hot, bake rolls for 25-30 minutes or until slightly golden brown. Let cool for a few minutes and then serve immediately.
-- Optional: Frost with a mixture of icing sugar and 1-2 Tbsp almond milk.
+- Optional. Frost with a mixture of icing sugar and 1-2 Tbsp almond milk.
 
 comments: 
 - Make 12 rolls.
