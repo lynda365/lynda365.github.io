@@ -8,10 +8,10 @@ tags: vegan cake
 ingredients:
 - 50g vegan butter
 - 2.7 tsp rapid-rise yeast
-- 288ml unsweetened plain almond milk
+- 285ml unsweetened plain almond milk
 - 1.5 tbsp sugar
 - 0.25 tsp salt
-- 490g unbleached all-purpose flour
+- 450g unbleached all-purpose flour
 - ---
 - 50g vegan butter, melted
 - 60g caster sugar
@@ -19,7 +19,7 @@ ingredients:
 - ---
 - 35g vegan butter, melted
 - ---
-- 120g icing sugar
+- 100g icing sugar
 - 1-2 tbsp almond milk
 
 directions:
