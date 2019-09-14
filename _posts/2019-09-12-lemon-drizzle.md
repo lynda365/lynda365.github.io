@@ -23,7 +23,7 @@ ingredients:
 
 directions:
 - Line a baking tray/tin with greaseproof paper. Heat oven to 175C.
-- Mix the dry cake ingredients in a large bowl. Mix the wet cake ingredients in another bowl. Fold wet ingredients into dry, remove lumps but do not overmix. Pour into tin and bake on middle shelf of oven for 25-30 mins for traybake, or 1 hour for 2lb loaf tin. Check doneness with a clean toothpick.
+- Mix the dry cake ingredients in a large bowl. Mix the wet cake ingredients in another bowl. Fold wet ingredients into dry, remove lumps but do not overmix. Pour into tin and bake on middle shelf of oven for 25-30 mins for traybake, or 45-50 mins for 2lb loaf tin. Check doneness with a clean toothpick.
 - Allow to cool, then make plenty of holes with a toothpick. Mix the remaining sugar and lemon juice and warm in a small saucepan (without boiling if you want to keep the crunch). Spoon the drizzle over the cake, making sure it goes down the holes. Leave to cool completely.
 - Mix sieved icing sugar with lemon juice and spread over top of cake.
 
