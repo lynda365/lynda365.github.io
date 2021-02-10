@@ -10,8 +10,8 @@ ingredients:
 - 500g leeks, sliced
 - 2 garlic cloves, finely chopped
 - 1 scotch bonnet chilli, finely chopped
-- 300g pearl barley
-- 600ml hot chicken stock
+- 200g pearl barley
+- 400ml hot chicken stock
 - 1 lemon, zest of whole and juice of half
 - 40g dried apples, finely chopped
 - sprig of thyme
@@ -23,7 +23,7 @@ ingredients:
 
 directions:
 - Preheat the oven to 210C/200C Fan/Gas 6-7.
-- Heat the oil in a large saucepan over a medium-low heat. Sizzle the garlic and chilli briefly, then add the leeks. Fry gently for about 10 minutes until soft. Add the pearl barley and stir well. 
+- Heat the oil in a large saucepan over a medium-low heat. Cook the leeks gently for about 8 minutes until soft. Add the garlic and chilli and cook for another 2-3 mins, stirring. Add the pearl barley and stir well. 
 - Pour in the stock and bring to the boil. Reduce the heat and simmer, covered, until the grain is tender and most of the liquid has been absorbed,about 45 minutes.
 - Remove from the heat and stir in the chopped dried apples, lemon zest and juice, thyme, star anise, salt and pepper. Set aside in the warm pan.
 - Prepare the chicken while the barley is cooking. Untruss and trim fat. Insert sliced lemon into cavity (the other half). Cut the butter into two sticks and insert under breast skin. Season and place in roasting tray with a little oil underneath to stop it sticking.
