@@ -29,7 +29,7 @@ directions:
 - Heat oven to 200C.
 - Roll out pastry into circle and line quiche tin.
 - Beat the eggs and mix with cream, salt and pepper. The total volume should be 3/4 pint.
-- Assemble the quiche: Cut the brie into thin slices. Alternate layers of brie, onions and tomatoes to fill the pastry. Arrange the asparagus on top. Gently pour in the egg mixture. Place in the oven for 25-30 mins until golden brown and firm.
+- Assemble the quiche. Cut the brie into thin slices. Alternate layers of brie, onions and tomatoes to fill the pastry. Arrange the asparagus on top. Gently pour in the egg mixture. Place in the oven for 25-30 mins until golden brown and firm.
 
 comments: 
 - Use the 4cm deep, 25cm diameter fluted quiche tin with removable base.

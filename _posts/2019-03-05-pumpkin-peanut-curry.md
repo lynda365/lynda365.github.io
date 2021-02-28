@@ -31,6 +31,6 @@ comments:
 - Serves 4.
 ---
 
-Shown here with [Tofu Stir-fry](https://lynda365.github.io/pumpkin-peanut-curry.html)
+Shown here with [Tofu Stir-fry](https://lynda365.github.io/tofu-stir-fry.html)
 
 Source [Delicious Magazine](https://www.deliciousmagazine.co.uk/recipes/pumpkin-and-peanut-curry/)
