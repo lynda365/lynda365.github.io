@@ -20,7 +20,7 @@ ingredients:
 - 80g red lentils
 
 directions:
-- In a large pan, heat the olive oil, briefly sizzle the garlic and chilli, then add the onion and cook for 5-7 mins until softened. Add the cumin seeds and paprika, then cook for a further 2 mins. Stir in the sweet potato, red pepper and butternut squash and toss with the onion and spices for 2 mins.
+- In a large pan, heat the olive oil, add the onion and cook gently for 8 mins until softened. Add the garlic and chilli, cook for another 2 mins. Add the cumin seeds and paprika, then cook for a further 2 mins. Stir in the sweet potato, red pepper and butternut squash and toss with the onion and spices until well mixed.
 - Pour in the tomatoes and vegetable stock, season, then simmer gently for 15 mins. Stir in the lentils, cover with a lid, then simmer for 15 mins more until the vegetables are tender, the lentils are cooked and the liquid has been absorbed.
 
 comments: 

@@ -37,8 +37,7 @@ ingredients:
 
 directions:
 - Prepare spices. Heat coriander, cumin and cloves in a small frying pan to release flavours. Grind with dried chilli and cinnamon, then mix in salt, turmeric and garam masala.
-- Heat oil in large pan. Sizzle fennel seeds briefly, then add chilli, garlic and ginger.
-- Fry briefly, add onions, sizzle, then lower heat and cook gently for 10 mins, stirring as necessary.
+- Heat oil in large pan. Sizzle fennel seeds briefly, then add onions, lower heat and cook gently for 8 mins, stirring as necessary. Add chilli, garlic and ginger and cook, stirring for another 2 mins.
 - Add lentils, stir to coat with oil.
 - Add spice mixture, stir to mix thoroughly.
 - Add tomatoes, passata and stock. Bring to the boil, then cover and simmer 25 mins.
