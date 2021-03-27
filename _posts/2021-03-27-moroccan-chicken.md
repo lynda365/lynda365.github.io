@@ -14,6 +14,7 @@ ingredients:
 - 1 tbsp ground coriander
 - 1 tbsp ground cumin
 - 1/4 tsp cayenne pepper
+- 1/2 tsp ground black pepper
 - seeds of 10 cardamon pods, ground
 - 60g sultanas
 - 60g pitted black olives, halved
