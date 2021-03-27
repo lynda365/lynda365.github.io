@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Garlic, honey and mustard salad dressing"
+title: "Garlic, honey and mustard salad dressing"
 image: salad-dressing.jpg
 tags: veggie
 
