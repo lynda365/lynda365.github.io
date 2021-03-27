@@ -8,7 +8,7 @@ tags: chicken main
 ingredients:
 - 2 tbsp olive oil
 - 2 onions, chopped
-- 350g chicken breast, cut into small slices
+- 450g chicken breast, cut into small slices
 - 4 cloves garlic, minced
 - 20g fresh ginger, minced
 - 1 tbsp ground coriander
@@ -18,7 +18,7 @@ ingredients:
 - Seeds of 10 cardamon pods, ground
 - 60g sultanas
 - 60g pitted black olives, halved
-- Juice of 1 lemon
+- Juice of 1 lemon (60ml)
 - 2 tsp tahini
 - 2 tins chopped tomatoes
 - 40g flaked almonds, toasted
