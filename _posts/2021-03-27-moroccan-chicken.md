@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Moroccan Chicken"
 image: moroccan-chicken.jpg
-tags: chicken main test
+tags: chicken main
 
 ingredients:
 - 2 tbsp olive oil
