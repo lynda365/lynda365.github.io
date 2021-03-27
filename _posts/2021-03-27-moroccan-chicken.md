@@ -8,9 +8,9 @@ tags: chicken main
 ingredients:
 - 2 tbsp olive oil
 - 2 onions, chopped
-- 350g chicken breast, cut into bite-sized pieces
+- 350g chicken breast, cut into small slices
 - 4 cloves garlic, minced
-- 25g fresh ginger, minced
+- 20g fresh ginger, minced
 - 1 tbsp ground coriander
 - 1 tbsp ground cumin
 - 1/4 tsp cayenne pepper
