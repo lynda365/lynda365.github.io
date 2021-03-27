@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Garlic, honey and mustard salad dressing"
-image: garlic-mustard-salad-dressing.jpg
+image: salad-dressing.jpg
 tags: veggie
 
 ingredients:
