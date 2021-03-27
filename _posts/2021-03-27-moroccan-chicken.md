@@ -29,7 +29,7 @@ directions:
 - Add the almonds and serve with couscous
 
 comments: 
-- Serves 6
+- Serves 4-6
 - Allow 40-50g couscous per person
 ---
 
