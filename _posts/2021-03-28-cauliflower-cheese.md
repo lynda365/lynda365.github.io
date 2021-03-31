@@ -25,7 +25,7 @@ directions:
 - Heat oven to 200C.
 - Break the cauliflower into florets and steam for 10 mins. Set aside.
 - Gently fry the onions and mushrooms approx 10 mins until soft. Set aside.
-- Make sauce as follows. Melt butter in small saucepan, add flour and cook, stirring, for 3-5 mins. Add the mustard, stirring, and cook for 1 min. Add the sherry, stirring. Add the milk in gradual doses, stirring all the time to make a smooth sauce.
+- Make sauce as follows. Melt butter in small saucepan, add flour and cook, stirring, for 3 mins. Add the mustard, stirring, and cook for 1 min. Add the sherry, stirring. Add the milk in gradual doses, stirring all the time to make a smooth sauce.
 - Stir in the salt and pepper, plus half the cheese. Combine with the peas, mushrooms, onions and cauliflower and place in an ovenproof dish.
 - Cover with thinly sliced tomatoes (optional).
 - Sprinkle with the other half of the cheese. Bake for approx 20 mins until lightly browned on top.
