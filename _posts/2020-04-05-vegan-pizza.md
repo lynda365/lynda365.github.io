@@ -6,7 +6,7 @@ image: vegan-pizza.jpg
 tags: vegan
 
 ingredients:
-- 300g strong white flour
+- 350g strong white flour
 - 225g strong wholemeal flour
 - 1.5 tsp fast action dried yeast
 - 1.5 tsp salt
