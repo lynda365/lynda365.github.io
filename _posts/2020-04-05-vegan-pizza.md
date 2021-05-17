@@ -41,7 +41,6 @@ directions:
 - When the base is ready, quickly spread the tomato mixture over it, then sprinkle on the onions, red and green peppers, mushrooms, courgette, jalapeno peppers and mozzarella – in that order.
 - Put it straight into the hottest part of the oven and cook for 20 minutes (or 10-15 mins if base has been pre-cooked).
 
-
 comments: 
 - This is for my big oven tray measuring 39cm x 30cm
 - Obviously you can vary the toppings as much as you want. I sometimes use rehydrated dried ancho chillies for a milder flavour.
