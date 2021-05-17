@@ -27,9 +27,9 @@ directions:
 - Transfer mixture to a large mixing bowl and sprinkle on yeast. Let activate for 10 minutes. Then add the sugar and the salt and stir.
 - Next add in flour 1/2 cup at a time, stirring as you go. The dough will be sticky. When it is too thick to stir, transfer to a lightly floured surface and knead for a minute or so until it forms a loose ball (be careful not to overmix). Rinse your mixing bowl out, coat it with oil, and add your dough ball back in. Cover with plastic wrap and set in a warm place to rise for about 1 hour, or until doubled in size.
 - On a lightly floured surface, roll out the dough into a thin rectangle. Brush with melted vegan butter and top with sugar and desired amount of cinnamon.
-- Starting at one end, tightly roll up the dough and situate seam side down. Then with a serrated knife or a string of floss, cut the dough into 1.5 - 2 inch sections and position in a well-buttered 8x8 inch square or comparable sized round pan. 
+- Starting at one end, tightly roll up the dough and situate seam side down. Then with a serrated knife or a string of floss, cut the dough into 12 sections. Place on a 25 x 30cm baking tray lined with greaseproof paper.
 - Brush with vegan butter (melted) and cover with plastic wrap. Rise again in a warm place until the size you want. Preheat oven to 175 C.
-- Once the oven is hot, bake rolls for 25-30 minutes or until slightly golden brown. Let cool for a few minutes and then serve immediately.
+- Once the oven is hot, bake rolls for 25-30 minutes or until slightly golden brown.
 - Frost with a mixture of icing sugar and 1-2 Tbsp almond milk.
 
 comments: 
