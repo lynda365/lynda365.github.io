@@ -27,6 +27,7 @@ directions:
 - Heat the oil and gently fry onion for 8 mins until soft. Add ginger and garlic, cook for another 2 mins. Add the ground spices, cook for another 2 mins. Add the chicken and sultanas and cook, stirring, until the chicken is browned.
 - Add everything else except the almonds. Bring to the boil and simmer for 10-15 mins until the chicken is cooked.
 - Add the almonds and serve with couscous
+- To make the couscous, place 100g couscous in a bowl, add a glug of olive oil, then add 200ml boiling water and stir. Leave for 10 mins or until the couscous has absorbed the water. Then steam for 10 mins and serve.
 
 comments: 
 - Serves 4-6
