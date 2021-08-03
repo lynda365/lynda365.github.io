@@ -7,12 +7,12 @@ tags: veggie
 
 ingredients:
 - 250g cherry tomatoes
-- 440g onions
+- 440g onions (after peeling)
 - 200g brie
 - 100g asparagus (optional)
 - 30g butter
 - 150ml single cream
-- 6 eggs
+- 5 eggs
 - olive oil, salt and pepper
 - ---
 - 100g wholemeal flour
