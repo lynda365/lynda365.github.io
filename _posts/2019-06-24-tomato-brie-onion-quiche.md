@@ -6,8 +6,8 @@ image: tomato-brie-onion-quiche.jpg
 tags: veggie
 
 ingredients:
-- 250g cherry tomatoes
-- 440g onions (after peeling)
+- 350g cherry tomatoes
+- 450g onions (after peeling)
 - 200g brie
 - 100g asparagus (optional)
 - 30g butter
