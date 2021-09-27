@@ -38,4 +38,4 @@ comments:
 - Allow 50g couscous per person
 ---
 
-Source: Adapted from newspaper cutting, also "Good Food Fast" by Malcolm Hillier
+Adapted from newspaper cutting, also "Good Food Fast" by Malcolm Hillier
