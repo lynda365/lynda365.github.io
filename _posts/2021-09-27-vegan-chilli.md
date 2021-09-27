@@ -2,6 +2,7 @@
 
 layout: recipe
 title:  "Vegan Chilli"
+image: vegan-chilli.jpg
 tags: vegan main
 
 ingredients:
