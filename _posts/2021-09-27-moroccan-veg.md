@@ -25,7 +25,9 @@ ingredients:
 - 40g flaked almonds, toasted
 
 directions:
-- Peel and deseed the squash, cut into cubes, toss with olive oil and roast at 180C for 20 mins
+- Toast the flaked almonds in a small pan on a low heat.
+- Peel and deseed the squash, cut into cubes, toss with olive oil and roast at 180C for 20 mins.
+- Get all the ingredients ready to go.
 - Heat the oil and gently fry onion for 8 mins until soft. Add ginger and garlic, cook for another 2 mins. Add the ground spices, cook for another 2 mins.
 - Add everything else except the almonds. Bring to the boil and simmer for 10-15 mins.
 - Add the almonds and serve with couscous
