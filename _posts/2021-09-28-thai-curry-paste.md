@@ -2,6 +2,7 @@
 
 layout: recipe
 title: "Thai Curry Paste"
+image: thai-curry-paste.jpg
 tags: ingredient
 
 ingredients:
