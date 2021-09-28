@@ -20,7 +20,7 @@ ingredients:
 
 directions:
 - Slice the chicken thighs into 3 or 4 pieces each.
-- Saute the onions gently for 10 mins, then add the shrimp paste and curry paste and fry gently for 5-10 mins.
+- Saute the onions gently for 8 mins, then add the shrimp paste and curry paste and fry gently for 5 mins.
 - Add the chicken pieces, raise the heat and fry, stirring, until lightly browned.
 - Add the coconut milk, salt, turmeric and lime leaves. Bring to the boil and simmer, uncovered, for 40-50 mins, until chicken is tender.
 - Add lime juice and fish sauce a few minutes before serving.
