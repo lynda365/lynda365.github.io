@@ -14,7 +14,8 @@ ingredients:
 - 1 tbsp ground coriander
 - 1 tbsp ground cumin
 - 1/4 tsp cayenne pepper
-- 1/2 tsp ground black pepper
+- 1 tsp ground black pepper
+- 1/2 tsp salt
 - Seeds of 10 cardamon pods, ground
 - 60g sultanas
 - 60g pitted black olives, halved
@@ -22,11 +23,12 @@ ingredients:
 - 2 tsp tahini
 - 1 x 400g tin chickpeas, drained
 - 2 tins chopped tomatoes
+- 100ml water
 - 40g flaked almonds, toasted
 
 directions:
-- Toast the flaked almonds in a small pan on a low heat.
-- Peel and deseed the squash, cut into cubes, toss with olive oil and roast at 180C for 20 mins.
+- Peel and deseed the squash, cut into cubes, toss with olive oil and roast at 180C for 20 mins. Set aside.
+- Toast the flaked almonds in a small pan on a low heat. Set aside.
 - Get all the ingredients ready to go.
 - Heat the oil and gently fry onion for 8 mins until soft. Add ginger and garlic, cook for another 2 mins. Add the ground spices, cook for another 2 mins.
 - Add everything else except the almonds. Bring to the boil and simmer for 10-15 mins.
