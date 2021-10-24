@@ -10,8 +10,9 @@ ingredients:
 - 3 onions, chopped
 - 4 cloves garlic, crushed and chopped
 - 1 red chilli, deseeded and chopped
-- 1 tsp cumin seeds
-- 1 tbsp paprika
+- 2 tsp cumin seeds
+- 2 tbsp paprika
+- 1/2 tsp ground black pepper
 - 300g sweet potato, cubed
 - 1 red pepper, deseeded and chopped
 - 700g butternut squash, peeled and chopped
