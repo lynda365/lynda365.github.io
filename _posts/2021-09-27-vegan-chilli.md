@@ -11,7 +11,7 @@ ingredients:
 - 2 fresh red chillis, chopped
 - 6 cloves garlic, crushed and chopped
 - ---
-- 300g lentils (100g red, 200g green)
+- 250g green lentils
 - 600ml vegetable stock
 - 2 x 400g tins tomatoes
 - 1 tbsp ground roast cumin
@@ -30,7 +30,7 @@ directions:
 - Soak the ancho chillis in boiling water.
 - Cut the aubergines into cubes, toss with oil in a large bowl and roast at 200C for 20 mins.
 - Heat oil in large pan. Saute chopped onions for 10 mins. Add garlic and fresh chilli, cook gently for 2 mins.
-- Add lentils, stir to coat with oil. Add cumin, oregano, salt and pepper and stir. Add stock and tinned tomatoes. Bring to boil and simmer for 25 mins, covered.
+- Add lentils, stir to coat with oil. Add cumin, oregano, salt and pepper and stir. Add anchos, stock and tinned tomatoes. Bring to boil and simmer for 25 mins, covered.
 - Drain and chop red peppers.
 - Add cocoa and paprika to lentils and stir in. Add aubergine, peppers and kidney beans, stir, and simmer for 20 mins or until lentils are cooked.
 
