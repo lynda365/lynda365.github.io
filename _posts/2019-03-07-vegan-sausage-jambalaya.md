@@ -22,6 +22,7 @@ ingredients:
 - 2 tsp cajun spice
 - 1 tsp paprika
 - 1 tsp dried oregano
+- 1 tsp sugar
 - 1 tsp salt
 - 1 tbsp white wine vinegar
 - ---
@@ -33,7 +34,7 @@ ingredients:
 directions:
 - Soak the ancho chillis, remove the seeds and chop coarsely.
 - In a large pan, heat the oil, add the onion and celery and cook gently for 8 mins. Add the garlic, ginger and chilli, cook for a further 2 mins. Add the peppers and cook for 5-10 mins until slightly softened.
-- Add the tomatoes, pineapple, sausages, ancho chillies, cajun spice, oregano and vinegar. Simmer for 10-15 mins.
+- Add the tomatoes, pineapple, sausages, ancho chillies, cajun spice, oregano and vinegar. Simmer, covered for 15 - 20 mins.
 - Add the kidney beans, cook until warmed through.
 - Mix with the cooked rice and serve.
 
