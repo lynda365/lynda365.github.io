@@ -23,8 +23,8 @@ ingredients:
 - 2 ancho chillis, seeds removed, soaked and chopped
 - 1 x jar roasted red peppers, drained
 - 1 x 400g tin kidney beans, drained
-- 1 tbsp cocoa powder
-- 1 tbsp paprika
+- 2 tsp cocoa powder
+- 2 tsp paprika
 
 directions:
 - Soak the ancho chillis in boiling water.
