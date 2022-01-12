@@ -11,7 +11,7 @@ ingredients:
 - 2 garlic cloves, finely chopped
 - 1 scotch bonnet chilli, finely chopped
 - 200g pearl barley
-- 400ml hot chicken stock
+- 450ml hot chicken stock
 - 1 lemon, zest of whole and juice of half
 - 40g dried apples, finely chopped
 - sprig of thyme
