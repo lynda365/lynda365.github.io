@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Thai Chicken Curry"
-image: thai-chicken-curry.jpg
+image: thai-chicken-curry2.jpg
 tags: chicken main
 
 ingredients:

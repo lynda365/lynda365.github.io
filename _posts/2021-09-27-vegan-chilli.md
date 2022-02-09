@@ -24,14 +24,15 @@ ingredients:
 - 1 x jar roasted red peppers, drained
 - 1 x 400g tin kidney beans, drained
 - 2 tsp cocoa powder
-- 2 tsp paprika
+- 1 tsp smoked paprika
+- 1 tsp normal paprika
 
 directions:
 - Soak the ancho chillis in boiling water.
 - Cut the aubergines into cubes, toss with oil in a large bowl and roast at 200C for 20 mins.
 - Heat oil in large pan. Saute chopped onions for 10 mins. Add garlic and fresh chilli, cook gently for 2 mins.
 - Add lentils, stir to coat with oil. Add cumin, oregano, salt and pepper and stir. Add anchos, stock and tinned tomatoes. Bring to boil and simmer for 25 mins, covered.
-- Drain and chop red peppers.
+- Drain and chop red peppers. Blend half the pepper to a paste.
 - Add cocoa and paprika to lentils and stir in. Add aubergine, peppers and kidney beans, stir, and simmer for 20 mins or until lentils are cooked.
 
 comments: 
