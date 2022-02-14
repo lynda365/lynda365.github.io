@@ -22,7 +22,7 @@ ingredients:
 - 70ml cold water
 
 directions:
-- Heat oven to 170C. Halve the tomatoes, toss with olive oil, salt and pepper. Tip onto baking tray lined with greaseproof paper and place in oven for 30-40 mins.
+- Heat oven to 160C. Halve the tomatoes, toss with olive oil, salt and pepper. Tip onto baking tray lined with greaseproof paper and place in oven for 30 mins.
 - Slice onions and saute gently in butter and olive oil for 30-40 mins until soft and translucent.
 - Blanch the asparagus in boiling water for 2 mins, then cool in cold water. Drain.
 - Make pastry. Rub flour, salt and fat together until like breadcrumbs with no lumps. Mix in the water and form into a ball. Cover with clingfilm and place in fridge for 30 mins.

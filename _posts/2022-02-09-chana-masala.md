@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Chana Masala"
-image: chana-masala.jpg
+image: chana-masala2.jpg
 tags: vegan main
 
 ingredients:
@@ -30,7 +30,7 @@ directions:
 - Add the ground coriander and turmeric and fry, stirring for 2 more minutes.
 - Add the tomatoes, drained chickpeas, salt and water. Bring to the boil and simmer for 20 minutes.
 - Stir in the garam masala and lemon juice.
-- Serve with rice, cucumber, spring onion and red pepper salad, and chopped coriander leaves
+- Serve with rice, cucumber, spring onion and red pepper salad, and chopped coriander leaves.
 
 comments: 
 - Serves 4-6
