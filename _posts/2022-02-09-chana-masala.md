@@ -17,6 +17,8 @@ ingredients:
 - 1 tsp ground turmeric
 - 1 x 400g tin plum tomatoes
 - 2 x 400g tins chickpeas
+- 1 red pepper \(optional\)
+- 1 courgette \(optional\)
 - 250ml water \(some can be from chickpea tins\)
 - 1½ tsp fine salt
 - 1 tsp garam masala
