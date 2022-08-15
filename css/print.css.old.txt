@@ -33,6 +33,7 @@ and open the template in the editor.
     }
     
     hr{
-    display: none !important;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
     }
 }
