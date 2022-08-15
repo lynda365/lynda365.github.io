@@ -31,6 +31,11 @@ and open the template in the editor.
     {
     font-size: 1rem;    
     }
+	
+	h4
+    {
+    margin-bottom: 10px !important; 
+    }
     
     hr{
     display: none !important;
