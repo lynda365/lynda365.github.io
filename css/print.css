@@ -32,6 +32,11 @@ and open the template in the editor.
     font-size: 1rem;    
     }
 	
+	div.mt3.clearfix
+	{
+	margin-top: 10px !important;	
+	}
+	
 	h4
     {
     margin-bottom: 10px !important; 
