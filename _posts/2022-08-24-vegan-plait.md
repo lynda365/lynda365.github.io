@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Vegan sausage rolls or plait"
+title:  "Vegan Sausage Rolls or Plait"
 image: vegan-sausage-rolls.jpg
 tags: vegan
 
@@ -21,7 +21,7 @@ ingredients:
 - 1 finely chopped carrot (plait only)
 - ---
 - 500g pack jus-rol puff pastry
-- plant milk and maple syrup (3:1)for glaze
+- plant milk and maple syrup (3:1) for glaze
 
 directions:
 - Slice and saute the mushrooms (if using).
