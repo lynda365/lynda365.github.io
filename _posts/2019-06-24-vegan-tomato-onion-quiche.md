@@ -18,6 +18,7 @@ ingredients:
 - 250ml vegetable stock \(double strength\)
 - 3 tbsp nutri yeast flakes
 - 1/2 tsp black pepper
+- 1/2 tsp salt
 - ---
 - 100g wholemeal flour
 - 100g plain flour
@@ -36,5 +37,5 @@ directions:
 - Gently mix the ingredients together, adding tomatoes last. Save some for the top. Pour into the quiche case and press tomatoes gently into top. Place in the oven for 25-30 mins until golden brown and firm.
 
 comments: 
-- Use the 4cm deep, 25cm diameter fluted quiche tin with removable base.
+- Use the 4cm deep, 25cm diameter fluted quiche tin with removable base. It takes approx 1.4 litres to fill the pastry case.
 ---
