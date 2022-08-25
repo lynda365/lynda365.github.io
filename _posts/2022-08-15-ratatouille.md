@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Ratatouille"
 image: ratatouille.jpg
-tags: veggy main
+tags: veggie main
 
 ingredients:
 - olive oil
