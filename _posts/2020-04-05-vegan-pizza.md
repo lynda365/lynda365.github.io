@@ -6,12 +6,12 @@ image: vegan-pizza.jpg
 tags: vegan
 
 ingredients:
-- 350g strong white flour
-- 225g strong wholemeal flour
+- 275g strong white flour
+- 250g plain white flour
 - 1.5 tsp fast action dried yeast
 - 1.5 tsp salt
 - 2.25 tsp sugar
-- 350ml warm water (??)
+- 400 ml warm water (??)
 - ---
 - 400g tin chopped tomatoes
 - 1 tbsp capers
@@ -32,10 +32,12 @@ ingredients:
 - 1 tsp paprika
 
 directions:
-- Place the flour, yeast, salt and sugar in a mixing bowl and stir together. Add the warm water and form into a dough with your hands. Knead on a floured surface until the dough feels springy and elastic. Place in a clean bowl covered with a tea towel and put in a warm place like an airing cupboard for 40 minutes to rise.
-- Alternatively, use the same ingredients in the breadmaker on pizza dough setting.
-- After 40 minutes, the dough should have risen to twice its size. Knead again, using oil on the board to stop it sticking, then stretch/rolling pin by hand to fill the baking tray, which has been lightly oiled and coated with flour. You may need to ‘rest’ it for short periods if this becomes difficult without tearing the dough. Cover with cling film and return to the warm place for 30 minutes to 1 hour for the final rise. Heat oven to 200C.
-- If pre-cooking the base, make approx 7 x 5 finger depressions to prevent ballooning. Cook for 10 mins at 200C. 
+- Dissolve 1 tsp of the sugar in the warm water and sprinkle the yeast on top. Leave for 10 mins to activate. Add the rest of the sugar and salt.
+- Add this mix to the flour and form into a dough. Knead on a floured surface until the dough feels springy and elastic. Place in a clean bowl covered with a tea towel and put in a warm place like an airing cupboard for an hour or so to to rise.
+- Knock back the dough, wrap in clingfilm and leave in the fridge until ready.
+- Stretch/rolling pin by hand to fill the baking tray, which has been lightly oiled and coated with flour. You may need to ‘rest’ it for short periods if this becomes difficult without tearing the dough.
+- Cover with cling film and return to the warm place for 30 minutes to 1 hour for the final rise. Heat oven to 200C.
+- If pre-cooking the base, make approx 7 x 5 finger depressions to prevent ballooning. Brush with oil and cook for 5-10 mins at 200C. 
 - Prepare the filling. Drain the chopped tomatoes, then whizz with a food processor or blender stick until smooth. Chop the capers and mix in. Add the herbs, chopped or torn, plus the tomato puree, black pepper and sugar. Mix together and set to one side.
 - Thinly slice the onion, red and green peppers, mushrooms and courgette. Roughly chop the jalapeno peppers. Grate the cheese and mix with the paprika. Arrange everything within easy reach so that you can assemble the topping as quickly as possible.
 - When the base is ready, quickly spread the tomato mixture over it, then sprinkle on the onions, red and green peppers, mushrooms, courgette, jalapeno peppers and mozzarella – in that order.
