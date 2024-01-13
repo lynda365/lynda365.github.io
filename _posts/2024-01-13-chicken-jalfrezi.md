@@ -1,10 +1,10 @@
----	
-	
+---
+
 layout: recipe
 title: "Chicken Jalfrezi"
 image: chicken-jalfrezi.jpg
-tags:	
-	
+tags:
+
 ingredients:	
 - 0.5 cup oil or ghee
 - 3 onions, chopped
@@ -23,7 +23,7 @@ ingredients:
 - 3 capsicums, preferably different colours, diced into bite-sized pieces
 - 5 tbsp white vinegar
 - Fresh coriander, for garnish 
- 
+
 directions: 
 - In a pan, add the oil/ghee. Add in the onions and fry on a medium-high heat, stirring regularly to ensure the onions brown evenly
 - Once the onions are beginning to turn golden (between 10-15 minutes) add the garlic, ginger and green chillies. Fry this for a few minutes
@@ -32,9 +32,9 @@ directions:
 - Add about 1/3 cup of water, cover and allow the chicken to cook for about 20 minutes
 - Add in the vinegar and the diced capsicum. Stir through, then turn the heat down to low and allow this to cook for between 5-10 minutes, covered with the lid. The capsicum should remain crunchy
 - Finish off by stirring in some chopped coriander before serving. 
- 
+
 comments: 
 - Serves 4
 --- 
- 
+
 From [Fatima Cooks](https://fatimacooks.net/chicken-jalfrezi-recipe) 
