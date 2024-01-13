@@ -2,7 +2,7 @@
 
 layout:  recipe
 title: "Spaghetti Bolognese"
-image: spagetti-bolognese.jpg
+image: spaghetti-bolognese.jpg
 tags: beef main
 
 ingredients: 
