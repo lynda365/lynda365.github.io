@@ -11,7 +11,7 @@ ingredients:
 - 1.5 tsp fast action dried yeast
 - 1.5 tsp salt
 - 2.25 tsp sugar
-- 400 ml warm water (??)
+- 425 ml warm water
 - ---
 - 400g tin chopped tomatoes
 - 1 tbsp capers
