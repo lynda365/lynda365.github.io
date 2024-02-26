@@ -7,7 +7,7 @@ tags: veggie vegan main
 
 ingredients:
 - 450g brown or large green lentils
-- 1500ml vegetable broth or water
+- 2000ml vegetable broth or water (3 cubes)
 - 1 jalapeño pepper chopped
 - 2 teaspoons coriander seeds
 - 1 1/2 teaspoons cumin seeds

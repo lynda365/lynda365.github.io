@@ -6,7 +6,7 @@ image: thai-chicken-curry2.jpg
 tags: chicken main
 
 ingredients:
-- 650g chicken thigh fillets, trimmed
+- 800g chicken thigh fillets, trimmed
 - 1 x 200ml portion Thai curry paste, defrosted
 - 1 tsp shrimp paste, if not in curry paste
 - 2 onions, sliced
