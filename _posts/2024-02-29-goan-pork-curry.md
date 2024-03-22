@@ -18,7 +18,7 @@ ingredients:
 - 1 tsp light brown sugar
 - 3 tbsp dried crispy onions
 - 3 red onions, peeled and thinly sliced
-- 4-6 tbsp plus 250 ml water
+- 4-6 tbsp plus 300-400 ml water
 - 1kg boneless pork shoulder cut into 1" cubes
 - 2.5 cm cube fresh ginger, peeled and coarsely chopped
 - 1 head of garlic, all cloves peeled.
@@ -31,7 +31,7 @@ directions:
 - Add the garlic and ginger to the now empty food processor and blitz with 2-3 tbsp water.
 - Fry the pork cubes in vegetable oil and brown them lightly in batches. Remove the pork and drain.
 - Fry the sliced onions gently for 5-10 mins
-- Put the pureed garlic and ginger in the pan and stir the paste for a few seconds. Add the coriander and turmeric and fry for a few more seconds. Add the meat, any juices that have accumulated and the vinegar, onion, spice paste. Add 250 ml water and bring to the boil.
+- Put the pureed garlic and ginger in the pan and stir the paste for a few seconds. Add the coriander and turmeric and fry for a few more seconds. Add the meat, any juices that have accumulated and the vinegar, onion, spice paste. Add 300-400 ml water and bring to the boil.
 - Cover and simmer gently for 2 hours or until the pork is tender.
 
 comments: 
