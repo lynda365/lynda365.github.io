@@ -28,7 +28,7 @@ ingredients:
 
 
 directions:
-- In a large soup pot over medium-high heat, combine the lentils, stock or water, jalapeño, coriander, cumin, oregano and bay leaves. Bring to a boil, then reduce the heat to low. Simmer, partially covered, about 30 minutes, until the lentils are tender.
+- In a large soup pot over medium-high heat, combine the lentils, stock or water, jalapeño, coriander, cumin, oregano and bay leaves. Bring to a boil, then reduce the heat to low. Simmer, partially covered, about 15 minutes, until the lentils are slightly tender.
 - Add the potatoes, spinach and butternut squash, re-cover and cook another 15 to 20 minutes, until the potatoes and squash are tender.
 - Meanwhile, in a large skillet over medium heat, heat the olive oil until shimmering. Add the onion, and cook, stirring, until it starts to soften, 3 to 4 minutes. Add the celery and garlic and lemon zest and cook, stirring often, until they soften, 3 minutes. Add the mixture to the soup, deglazing the skillet with a little soup liquid and adding the deglaze contents back to the soup pot. Add the lemon juice, salt and pepper, taste, and add more if needed. Pick out and discard the bay leaves.
 - Serve with lemon wedges and crumbled feta cheese
