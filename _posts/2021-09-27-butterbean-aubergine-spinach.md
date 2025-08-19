@@ -13,8 +13,9 @@ ingredients:
 - 250g frozen spinach, defrosted and squeezed to drain
 - 2 x 400g tins butter beans
 - 500ml passata
-- 60ml water
-- 2 tbsp paprika
+- 100ml water
+- 1 tbsp paprika
+- 1 tbsp smoked paprika
 - 1 tsp salt flakes
 - 1/2 tsp ground black pepper
 - 1/2 tsp cayenne pepper
@@ -31,6 +32,7 @@ directions:
 
 comments: 
 - Serves approx 6.
+- Optionally sub 1 tin butter beans with 150g frozen broad beans and 100g frozen peas.
 ---
 
 Adapted from Rick Stein's [Gigantes with tomatoes and greens](https://www.bbc.co.uk/food/recipes/gigantes_with_tomatoes_47546).
